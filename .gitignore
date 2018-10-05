@@ -3,3 +3,7 @@
 *.iml
 out
 gen
+
+# Maven
+target
+*.class
